@@ -22,24 +22,13 @@
     <podcast:locked>no</podcast:locked>
 
     <item>
-      <title>EP01 别盯盘去逛超市</title>
-      <description>AL Brooks 建议新手交易者：设好止损和目标后，离开屏幕去逛超市。这种"超市策略"的核心是用物理隔离来克服人性弱点——避免见小利就跑、止损放太大的恶性循环。通过高时间周期交易，培养平和耐心的交易心态。</description>
-      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.1/ep001-stop-watching-go-shopping.m4a" length="29896205" type="audio/x-m4a"/>
-      <guid isPermaLink="false">ep001-stop-watching-20260225</guid>
-      <pubDate>Tue, 25 Feb 2026 08:00:00 +0800</pubDate>
-      <itunes:duration>15:29</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-
-    <item>
-      <title>EP02 为什么下单后要去逛超市</title>
-      <description>深入探讨为什么交易者在下单后应该远离屏幕。从心理学和概率论角度解释，盯盘如何破坏你的交易纪律，以及如何通过"超市策略"建立更健康的交易习惯。</description>
+      <title>EP01 超市交易法则：远离屏幕的盈利哲学</title>
+      <description>AL Brooks 建议新手交易者：设好止损和目标后，离开屏幕去逛超市。这种"超市策略"的核心是用物理隔离来克服人性弱点——避免见小利就跑、止损放太大的恶性循环。从心理学和概率论角度解释，盯盘如何破坏你的交易纪律，以及如何通过高时间周期交易培养平和耐心的交易心态。</description>
       <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.1/ep002-why-go-shopping-after-order.m4a" length="33848683" type="audio/x-m4a"/>
-      <guid isPermaLink="false">ep002-why-go-shopping-20260225</guid>
-      <pubDate>Tue, 25 Feb 2026 09:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ep001-supermarket-strategy-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 08:00:00 +0800</pubDate>
       <itunes:duration>17:32</itunes:duration>
-      <itunes:episode>2</itunes:episode>
+      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
