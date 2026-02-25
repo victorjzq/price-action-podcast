@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>价格行为学 Price Action</title>
+    <link>https://victorjzq.github.io/price-action-podcast</link>
+    <language>zh-cn</language>
+    <description>基于 Al Brooks 价格行为学的交易知识播客。每期深入解析一个交易概念，帮助你建立系统化的价格行为交易体系。</description>
+    <itunes:author>Victor Jia</itunes:author>
+    <itunes:owner>
+      <itunes:name>Victor Jia</itunes:name>
+      <itunes:email>victor@victorjia.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://victorjzq.github.io/price-action-podcast/cover.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>no</podcast:locked>
+
+    <item>
+      <title>EP01 别盯盘去逛超市</title>
+      <description>AL Brooks 建议新手交易者：设好止损和目标后，离开屏幕去逛超市。这种"超市策略"的核心是用物理隔离来克服人性弱点——避免见小利就跑、止损放太大的恶性循环。通过高时间周期交易，培养平和耐心的交易心态。</description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.1/ep001-stop-watching-go-shopping.m4a" length="29896205" type="audio/x-m4a"/>
+      <guid isPermaLink="false">ep001-stop-watching-20260225</guid>
+      <pubDate>Tue, 25 Feb 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>15:29</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>EP02 为什么下单后要去逛超市</title>
+      <description>深入探讨为什么交易者在下单后应该远离屏幕。从心理学和概率论角度解释，盯盘如何破坏你的交易纪律，以及如何通过"超市策略"建立更健康的交易习惯。</description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.1/ep002-why-go-shopping-after-order.m4a" length="33848683" type="audio/x-m4a"/>
+      <guid isPermaLink="false">ep002-why-go-shopping-20260225</guid>
+      <pubDate>Tue, 25 Feb 2026 09:00:00 +0800</pubDate>
+      <itunes:duration>17:32</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
