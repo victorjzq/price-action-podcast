@@ -2,16 +2,18 @@
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>价格行为学 Price Action</title>
     <link>https://victorjzq.github.io/price-action-podcast</link>
+    <atom:link href="https://victorjzq.github.io/price-action-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-cn</language>
     <description>基于 Al Brooks 价格行为学的交易知识播客。每期深入解析一个交易概念，帮助你建立系统化的价格行为交易体系。</description>
     <itunes:author>Victor Jia</itunes:author>
     <itunes:owner>
       <itunes:name>Victor Jia</itunes:name>
-      <itunes:email>victor@victorjia.com</itunes:email>
+      <itunes:email>victorjia2026@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://victorjzq.github.io/price-action-podcast/cover.jpg"/>
     <itunes:category text="Business">
@@ -20,15 +22,174 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Wed, 26 Feb 2026 15:00:00 +0800</lastBuildDate>
 
+    <!-- 交易书籍系列 EP13: 新金融怪杰 -->
+    <item>
+      <title>交易书籍12：《新金融怪杰》— 顶尖交易员的共同法则</title>
+      <description><![CDATA[访谈集，采访多位顶尖交易员。他们的共同特征：先评估锁定最大损失，规划逃生路线，耐心等待市场确认信号，绝不主观猜测，严格限制头寸规模，防御优先。本期解析这些大师的交易智慧。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book12-new-market-wizards.m4a" length="31342188" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book12-new-market-wizards-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 14:00:00 +0800</pubDate>
+      <itunes:duration>16:13</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP12: 算法交易 -->
+    <item>
+      <title>交易书籍11：《算法交易：制胜策略与原理》— 均值回归与动量的数学本质</title>
+      <description><![CDATA[系统讲解回测、均值回归与动量策略。均值回归的数学本质是价格偏离均值越远回归力度越大，但需防范过拟合和市场体制变化。动量策略亏损有限盈利无限，均值回归在极端事件中风险巨大。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book11-algorithmic-trading.m4a" length="43864090" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book11-algorithmic-trading-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 13:00:00 +0800</pubDate>
+      <itunes:duration>22:42</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP11: 每日交易教练 -->
+    <item>
+      <title>交易书籍10：《每日交易教练》— 把情绪转化为执行力</title>
+      <description><![CDATA[交易核心不是压住情绪，而是把情绪转化为执行力。交易应被理解为业务管理而非找信号卡点位。决定长期结果的不是预测多准，而是流程多稳，真正的优势来自过程控制。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book10-daily-trading-coach.m4a" length="46519993" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book10-daily-trading-coach-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 12:00:00 +0800</pubDate>
+      <itunes:duration>24:05</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP10: 技术分析的艺术与科学 -->
+    <item>
+      <title>交易书籍09：《技术分析的艺术与科学》— 识别供需失衡的交易优势</title>
+      <description><![CDATA[交易核心在于识别买卖压力失衡，建立可验证的交易优势。市场价格移动根本原因是供需失衡，技术分析的圣杯在于识别由供需失衡导致的市场结构，任何优势须基于统计验证。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book09-art-science-technical-analysis.m4a" length="36581531" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book09-art-science-technical-analysis-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 11:00:00 +0800</pubDate>
+      <itunes:duration>18:56</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP09: 提升交易绩效 -->
+    <item>
+      <title>交易书籍08：《提升交易绩效》— 天赋与策略的乘数效应</title>
+      <description><![CDATA[交易者普遍面临知道很多却做不到的困境。交易成功来自天赋与环境匹配的乘数效应，训练逻辑接近竞技体育。必须找到适合自己性格和天赋的策略，而非盲目模仿他人。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book08-enhancing-trader-performance.m4a" length="38441606" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book08-enhancing-trader-performance-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 10:00:00 +0800</pubDate>
+      <itunes:duration>19:54</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP08: 克罗谈期货交易策略 -->
+    <item>
+      <title>交易书籍07：《克罗谈期货交易策略》— 只在强趋势出手</title>
+      <description><![CDATA[期货市场最大的对手不是行情而是自己。关键不在预测而在执行：只在强趋势出现时出手，方向错就离场，结构不清就观望。用周线月线把握主趋势，不用新闻做交易。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book07-kroll-futures-strategy.m4a" length="32087218" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book07-kroll-futures-strategy-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 09:00:00 +0800</pubDate>
+      <itunes:duration>16:36</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP07: 纪律严明的交易者 -->
+    <item>
+      <title>交易书籍06：《纪律严明的交易者》— 用谦卑补上市场结构缺口</title>
+      <description><![CDATA[市场不会犯错，价格反映所有交易者的共识。市场是非结构化环境，需用个人规则补上结构缺口。纪律的地基是谦卑：停止与市场争论，回到价格本身，识别共识并顺势获利。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book06-disciplined-trader.m4a" length="38807771" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book06-disciplined-trader-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 08:00:00 +0800</pubDate>
+      <itunes:duration>20:05</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP06: 交易心理分析 -->
+    <item>
+      <title>交易书籍05：《交易心理分析》— 接受不确定性才能长期盈利</title>
+      <description><![CDATA[交易真正要解决的不是分析不够，而是能否接受风险。恐惧根源不在知识不足，而在未真正接受不确定性。单笔结果随机，样本结果可确定。不需知道下一刻会发生什么也能长期赚钱。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book05-trading-in-the-zone.m4a" length="36408966" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book05-trading-in-the-zone-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 07:00:00 +0800</pubDate>
+      <itunes:duration>18:51</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP05: 专业投机原理 -->
+    <item>
+      <title>交易书籍04：《专业投机原理》— 鳄鱼原则与风险管理</title>
+      <description><![CDATA[交易第一要务是理解规则、确认胜算，而非急着下注。投机是在胜算倾斜时承担风险，赌博是盲目承担风险。核心是鳄鱼原则：止损触发就执行，不犹豫不摊平，快速止损优先管理风险。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book04-trader-vic-speculation.m4a" length="47874091" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book04-trader-vic-speculation-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 06:00:00 +0800</pubDate>
+      <itunes:duration>24:47</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP04: 股市趋势技术分析 -->
+    <item>
+      <title>交易书籍03：《股市趋势技术分析》— 图表形态是心理的几何投影</title>
+      <description><![CDATA[图表形态是人类心理在价格轴上的几何投影。头肩顶、三角形等技术图形是恐惧贪婪等行为反应的可视化结果。形态的本质不是图形，而是对手方失败的次数，失败越多另一方胜率越高。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book03-technical-analysis-stock-trends.m4a" length="38542457" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book03-technical-analysis-stock-trends-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 05:00:00 +0800</pubDate>
+      <itunes:duration>19:57</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP03: 股票作手回忆录 -->
+    <item>
+      <title>交易书籍02：《股票作手回忆录》— 投机者的希望与恐惧</title>
+      <description><![CDATA[经典畅销书，核心观点与价格行为学一致。强调牛市中不应过早获利离场，不在盘整时预测方向，等待价格突破关键点后顺势而为。投机者的主要敌人是内部的希望与恐惧倒置。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book02-reminiscences-stock-operator.m4a" length="41639344" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book02-reminiscences-stock-operator-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 04:00:00 +0800</pubDate>
+      <itunes:duration>21:33</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- 交易书籍系列 EP02: 以交易为生 -->
+    <item>
+      <title>交易书籍01：《以交易为生》— 交易是一场心理戒瘾</title>
+      <description><![CDATA[价格行为系列开启交易书籍新篇章。本书偏向交易心理，指出亏损是心理成瘾而非运气问题，交易者需承认对市场无能为力，放弃从交易中获取快感的潜意识需求，像经营企业一样冷静交易。]]></description>
+      <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.2/book01-trading-for-a-living.m4a" length="30917007" type="audio/x-m4a"/>
+      <guid isPermaLink="false">book01-trading-for-a-living-20260226</guid>
+      <pubDate>Wed, 26 Feb 2026 03:00:00 +0800</pubDate>
+      <itunes:duration>16:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- EP01: 超市交易法则（原有） -->
     <item>
       <title>EP01 超市交易法则：远离屏幕的盈利哲学</title>
-      <description>AL Brooks 建议新手交易者：设好止损和目标后，离开屏幕去逛超市。这种"超市策略"的核心是用物理隔离来克服人性弱点——避免见小利就跑、止损放太大的恶性循环。从心理学和概率论角度解释，盯盘如何破坏你的交易纪律，以及如何通过高时间周期交易培养平和耐心的交易心态。</description>
+      <description><![CDATA[AL Brooks 建议新手交易者：设好止损和目标后，离开屏幕去逛超市。这种"超市策略"的核心是用物理隔离来克服人性弱点——避免见小利就跑、止损放太大的恶性循环。从心理学和概率论角度解释，盯盘如何破坏你的交易纪律，以及如何通过高时间周期交易培养平和耐心的交易心态。]]></description>
       <enclosure url="https://github.com/victorjzq/price-action-podcast/releases/download/v0.1/ep002-why-go-shopping-after-order.m4a" length="33848683" type="audio/x-m4a"/>
       <guid isPermaLink="false">ep001-supermarket-strategy-20260226</guid>
-      <pubDate>Wed, 26 Feb 2026 08:00:00 +0800</pubDate>
+      <pubDate>Wed, 26 Feb 2026 02:00:00 +0800</pubDate>
       <itunes:duration>17:32</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
